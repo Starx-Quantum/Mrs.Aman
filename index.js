@@ -17,7 +17,7 @@ const febHolidays = [
     "I don't want to lose you",
     "And trust me I dont want anyone else",
     "There's no one better than you❤️",
-    "You're the best baby!!",
+    "You're the best best baby!!",
     "Or should I say, mo gro coco d'amour que j'adore a la folie XD",
     "Wow!! Time flies, we've already been together for 7 year",
     "There's some hardships,",
